@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,QACE,kBAAmB,CACnB,eACF","file":"main.be31bbef.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n\n.poster {\n  object-fit: contain;\n  max-width: 200px;\n}\n"]}
